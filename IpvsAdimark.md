@@ -39,6 +39,12 @@ Aplicada la fórmula solamente para el último tweet de cada candidato presidenc
 - El resto de los candidatos presenta cifras similares entre sus porcentajes de PI y lo que reporta Adimark. Solamente Felipe Kast y Carolina Goic presentan un porcentaje significativamente más alto en Twitter que en Adimar.
 
 En la gráfica se puede apreciar de mejor forma:
+
+<div>
+    <a href="https://plot.ly/~crishernandezmaps/2/" target="_blank" title="" style="display: block; text-align: center;"><img src="https://plot.ly/~crishernandezmaps/2.png" alt="" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="crishernandezmaps:2"  src="https://plot.ly/embed.js" async></script>
+</div>
+
 ![](https://plot.ly/~crishernandezmaps/2/)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~crishernandezmaps/2.embed"></iframe>
 
