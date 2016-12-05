@@ -45,8 +45,7 @@ En la gráfica se puede apreciar de mejor forma:
     <script data-plotly="crishernandezmaps:2"  src="https://plot.ly/embed.js" async></script>
 </div>
 
-![](https://plot.ly/~crishernandezmaps/2/)
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~crishernandezmaps/2.embed"></iframe>
+
 
 - Si tomamos ambos índices y se visualizan como una coordenada en la que Twitter sopesa el valor entregado por Adimark, se aprecia que Piñera y Guillier se alejan del resto de los candidatos. Guillier sin embargo, al parecer posee mayor impacto en la prensa y televisión, más que en Twitter.
 
