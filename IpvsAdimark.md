@@ -39,6 +39,7 @@ Aplicada la fórmula solamente para el último tweet de cada candidato presidenc
 - El resto de los candidatos presenta cifras similares entre sus porcentajes de PI y lo que reporta Adimark. Solamente Felipe Kast y Carolina Goic presentan un porcentaje significativamente más alto en Twitter que en Adimar.
 
 En la gráfica se puede apreciar de mejor forma:
+![](https://plot.ly/~crishernandezmaps/2/)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plot.ly/~crishernandezmaps/2.embed"></iframe>
 
 - Si tomamos ambos índices y se visualizan como una coordenada en la que Twitter sopesa el valor entregado por Adimark, se aprecia que Piñera y Guillier se alejan del resto de los candidatos. Guillier sin embargo, al parecer posee mayor impacto en la prensa y televisión, más que en Twitter.
